@@ -1,5 +1,5 @@
 # 💫 About Me: I AM Anirudh Singh
-🔭 I’m currently working on My Portfolio<br>🤝 I’m looking for help with placements<br>🌱 I’m currently learning JavaSpringboot<br>⚡ Fun fact: New User
+🔭 I’m currently working on MERN stack<br>🤝 I’m looking for help with improvements<br>🌱 I’m currently learning Node.js<br>⚡ Fun fact: New User
 
 
 ## 🌐 Socials:
